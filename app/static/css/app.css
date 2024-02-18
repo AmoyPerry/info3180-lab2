@@ -36,6 +36,7 @@ div.bottom{
 
 div.activity{
   display: grid;
+  
   grid-template-columns: auto auto auto;
   padding: 10px;
   text-align: center;
